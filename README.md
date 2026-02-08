@@ -29,7 +29,7 @@ The analysis showed a high correlation between on-time delivery and user ratings
 * **Conclusion:** Late delivery is the main driver of negative reviews
 ### 2. Correlation between product weight and logistics speed
 Using the **Tableau** BI system, I discovered a certain correlation:
-* The higher the average weight of goods in the seller's city, the higher the **Delay Rate (ROC)**
+* The higher the average weight of goods in the seller's city, the higher the **Delay Rate**
 * Goods weighing more than **10 kg** have a 2-3 times higher risk of delay compared to light parcels
 * The P-value of this data is **0.03**, which indicates its significance
 
