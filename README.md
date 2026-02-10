@@ -29,6 +29,7 @@ The analysis showed a high correlation between on-time delivery and user ratings
 * **Conclusion:** Late delivery is the main driver of negative reviews
 
 ![rating_diff](visualizations/rating_diff.png)
+
 ### 2. Correlation between product weight and logistics speed
 I discovered a certain correlation:
 * The higher the average weight of goods in the seller's city, the higher the **Delay Rate**
@@ -36,10 +37,13 @@ I discovered a certain correlation:
 * The P-value of this data is **0.03**, which indicates its significance
 
 ![Scatter Plot](visualizations/scatter_plot.png)
-**Link** [http://bit.ly/4006DGY]
 
 ### 3. Geographical anomalies
 The cities with the highest levels of delays were identified. For example, the city of **Sombrio** shows a high level of delays, which directly correlates with the high average weight of goods in this region **22 kg**
+
+![map_rating](visualizations/map_rating.png)
+**Graphic** [http://bit.ly/4006DGY]s
+
 ## Recommendations
 1. **Dynamic delivery times:** Implement an algorithm that automatically adds +1-2 days to the expected delivery date for goods weighing more than **10 kg**
 2. **Optimize partnerships:** Review logistics partners in cities with a Delay_Rate > 15% to identify the causes of delays
