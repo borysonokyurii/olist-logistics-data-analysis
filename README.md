@@ -36,6 +36,8 @@ I discovered a certain correlation:
 * The P-value of this data is **0.03**, which indicates its significance
 
 ![Scatter Plot](visualizations/scatter_plot.png)
+**Link** [http://bit.ly/4006DGY]
+
 ### 3. Geographical anomalies
 The cities with the highest levels of delays were identified. For example, the city of **Sombrio** shows a high level of delays, which directly correlates with the high average weight of goods in this region **22 kg**
 ## Recommendations
