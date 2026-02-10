@@ -1,4 +1,4 @@
-pandas
-sqlalchemy
-python-dotenv
-psycopg2-binary
+pandas==3.0.0
+sqlalchemy==2.0.46
+python-dotenv==1.2.1
+psycopg2-binary==2.9.9
