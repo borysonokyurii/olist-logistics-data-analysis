@@ -42,7 +42,7 @@ I discovered a certain correlation:
 The cities with the highest levels of delays were identified. For example, the city of **Sombrio** shows a high level of delays, which directly correlates with the high average weight of goods in this region **22 kg**
 
 ![map_rating](visualizations/map_rating.png)
-**Graphic** [http://bit.ly/4006DGY]s
+**Graphic** [https://bit.ly/3Mx0e2Z]
 
 ## Recommendations
 1. **Dynamic delivery times:** Implement an algorithm that automatically adds +1-2 days to the expected delivery date for goods weighing more than **10 kg**
